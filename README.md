@@ -3,8 +3,7 @@
   <br><br>
   <pre style="background-color: black; color: #00FF00; padding: 20px; border-radius: 5px; font-family: 'Courier New', monospace;">
 🔎 MasterRat permet de prendre l'accès au pc d'une victime à distance.
-⌨️ Les commandes :
-  
+    
 💻 <span style="color: #00FFFF;">+sys</span> - Afficher les informations du PC  
 🧹 <span style="color: #00FFFF;">+clear</span> - Effacer les logs du MasterRat  
 🛡️ <span style="color: #00FFFF;">+disable_wd</span> - Désactiver Windows Defender  
