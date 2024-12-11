@@ -6,23 +6,23 @@
 
   ### 💻 **Commandes Information système :**
   ```bash
-🧹 Commandes Utilitaires :
-  +sys    # Afficher les informations du PC
-  +clear  # Effacer les logs du MasterRat
-🛡️ Commandes Malveillantes :
-  +disable_wd  # Désactiver Windows Defender
-  +screenshot   # Prendre une capture d'écran du PC
-  +video        # Enregistrer une vidéo depuis le PC de la victime
-  +cam          # Prendre une photo de la caméra
-  +listen       # Met le PC sous écoute
-  +reverse_ps  # Session PowerShell inversée
-  +reverse_cmd # Session Command Prompt inversée
-  +keylogger  # Keylogger avancé
-🪲 Commandes d'Installation :
-  +installer  # Installer et ouvrir des fichiers
-🚨 Commandes Troll :
-  +ghost      # Envoie des msgbox discrètes comme un fantôme
-  +Bipper      # Fait bipper le PC
-  +close_process # Ferme tous les programmes
-  +wallpaper   # Fait entendre une voix dans le PC
+        "**Commandes Information system :**\n"
+        "💻 **+sys** - **Afficher les informations du PC**\n"
+        "**Commandes Utilitaires :**\n"
+        "🧹 **+clear** - **Effacer les logs du MasterRat**\n"
+        "**Commandes Malveillantes :**\n"
+        "🛡️ **+disable_wd** - **Désactiver Windows Defender**\n"
+        "📷 **+screenshot** - **Prendre une capture d'écran du PC**\n"
+        "📹 **+video** - **Enregistrer une vidéo depuis le PC de la victime**\n"
+        "📷 **+cam** - **Prendre une photo de la camera**\n"
+        "👻 **+listen** - **Met le pc sous écoute**\n\n"
+        "🪲 **+installer** - **Installer et ouvrir des fichiers**\n"
+        "🖥️ **+reverse_ps** - **Session PowerShell inversée**\n"  
+        "🖥️ **+reverse_cmd** - **Session Command Prompt inversée**\n"
+        "⌨️ **+keylogger** - **Keylogger avancé**\n"
+        "👻 **+ghost** - **Envoie des msgbox discrete comme un fantôme**\n\n"
+        "**Commandes Troll :**\n"
+        "🚨 **+Bipper** - **Fait bipper le pc**\n"
+        "❌ **+close_process** - **Ferme tout les programmes**\n"
+        "☘️ **+wallpaper** - **Fait entendre une voix dans le pc**\n" 
 ```
